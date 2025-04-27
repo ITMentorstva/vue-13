@@ -1,5 +1,4 @@
 <template>
-Hello world :)
   <CreateTask
       @add-task="addTask"
       @close-create-task="closeCreateTaskPopup"
